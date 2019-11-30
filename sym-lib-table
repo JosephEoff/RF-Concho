@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RF-Concho-rescue)(type Legacy)(uri ${KIPRJMOD}/RF-Concho-rescue.lib)(options "")(descr ""))
+)
