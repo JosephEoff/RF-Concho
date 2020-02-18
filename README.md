@@ -1,11 +1,11 @@
 # RF-Concho
 [A hat band for a nerd.](https://josepheoff.github.io/posts/1-hatband)
 
-![Finished hatband](https://github.com/JosephEoff/RF-Concho/blob/master/finished.jpg)
+![Finished hatband](finished.jpg)
 
-![Concho front](https://github.com/JosephEoff/RF-Concho/blob/master/conchofront.jpg)
+![Concho front](conchofront.jpg)
 
-![Concho back](https://github.com/JosephEoff/RF-Concho/blob/master/conchoback.jpg)
+![Concho back](conchoback.jpg)
 
 This project contains all the circuit diagrams and drawings needed to make a hat band with a passive cell phone detector.
 
