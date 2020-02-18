@@ -1,5 +1,5 @@
 # RF-Concho
-A hat band for a nerd.
+[A hat band for a nerd.](https://josepheoff.github.io/posts/1-hatband)
 
 ![Finished hatband](https://github.com/JosephEoff/RF-Concho/blob/master/finished.jpg)
 
